@@ -3,7 +3,7 @@
 ## Langkah Menjalankan Streamlit Menggunakan Google Collab
 ```
 1. Buka Google Collab dan buat notebook baru
-2. Upload file app.py di directory Google Collab
+2. Upload file app.py dan day.csv di directory Google Collab
 3. Kemduian paste code berikut: ! pip install streamlit -q
 4. Copy Paste code berikut juga: !wget -q -O - ipv4.icanhazip.com
 5. Copy Paste code berikut juga: ! streamlit run app.py & npx localtunnel --port 8501
